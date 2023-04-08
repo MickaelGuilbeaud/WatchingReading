@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "WatchingReading"
-include ':app'
+
+include(":app")
