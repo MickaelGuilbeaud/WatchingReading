@@ -21,6 +21,8 @@ dependencyResolutionManagement {
         create("libs") {
             // region Versions
             version("compose", "1.3.3")
+            version("composeCompiler", "1.4.2")
+            version("javaVersion", JavaVersion.VERSION_11.toString())
             // endregion
 
             // region Dependencies
