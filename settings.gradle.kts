@@ -34,7 +34,7 @@ dependencyResolutionManagement {
             library("androidx.test.jUnit", "androidx.test.ext", "junit").version("1.1.5")
             // endregion
             // region Compose
-            library("compose.material3", "androidx.compose.material3", "material3").version("1.1.0-alpha06")
+            library("compose.material3", "androidx.compose.material3", "material3").version("1.1.0-rc01")
             library("compose.ui", "androidx.compose.ui", "ui").versionRef("compose")
             library("compose.uiToolingPreview", "androidx.compose.ui", "ui-tooling-preview").versionRef("compose")
             library("compose.uiTooling", "androidx.compose.ui", "ui-tooling").versionRef("compose")
