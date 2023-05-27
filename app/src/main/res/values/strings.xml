@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">WatchingReading</string>
+
+    <!-- region Navigation bar -->
+    <string name="navigation_bar_animes">Animes</string>
+    <string name="navigation_bar_mangas">Mangas</string>
+    <string name="navigation_bar_search">Search</string>
+    <string name="navigation_bar_news">News</string>
+    <string name="navigation_bar_settings">Settings</string>
+    <!-- endregion -->
 </resources>
